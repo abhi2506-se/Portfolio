@@ -1,0 +1,41 @@
+{
+  "generatedAt": "2026-10-25T17:50:45.963Z",
+  "items": [
+    {
+      "id": "auto_fec38cce3892",
+      "title": "Shrinks a video in the browser before it's sent in live chat",
+      "body": "How it works: the video plays once, silently, while each frame is drawn to a Videos at or under COMPRESS_ABOVE_BYTES are sent as they are. If compression",
+      "date": "2026-10-25T17:50:45.955Z"
+    },
+    {
+      "id": "auto_b907bf908977",
+      "title": "Site Updates Db",
+      "body": "lib/site-updates-db.ts",
+      "date": "2026-10-25T17:50:45.955Z"
+    },
+    {
+      "id": "auto_edf3b78c1858",
+      "title": "Live Chat Auth",
+      "body": "lib/live-chat-auth.ts",
+      "date": "2026-10-25T17:50:45.955Z"
+    },
+    {
+      "id": "auto_71e7c519f61e",
+      "title": "Fetches a link's title, description, and image once, when a live chat message",
+      "body": "lib/link-preview.ts",
+      "date": "2026-10-25T17:50:45.955Z"
+    },
+    {
+      "id": "auto_aefeb8545679",
+      "title": "Whats New Button",
+      "body": "components/whats-new-button.tsx",
+      "date": "2026-10-25T17:50:45.955Z"
+    },
+    {
+      "id": "auto_f91145679686",
+      "title": "Link Preview",
+      "body": "components/live-chat/link-preview.tsx",
+      "date": "2026-10-25T17:50:45.955Z"
+    }
+  ]
+}
